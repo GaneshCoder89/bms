@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3f7712-3edf-4588-9223-b5dd57284b54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -37,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609500152979</updated>
-      <workItem from="1609500154524" duration="1783000" />
+      <workItem from="1609500154524" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="Build version 1.1">
       <created>1609500210517</created>
@@ -46,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609500210517</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Build version 1.2">
+      <created>1609506818195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609506818195</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,12 +60,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Build version 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build version 1.1" />
+    <MESSAGE value="Build version 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build version 1.2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1609500207630">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1609506816478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609500207630" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609506816478" />
+    <state x="461" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1609506855741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="461" y="220" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1609506855741" />
+    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor" timestamp="1609506862076">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor/0.0.1280.680@0.0.1280.680" timestamp="1609506862076" />
   </component>
 </project>
