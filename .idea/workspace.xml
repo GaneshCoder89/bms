@@ -36,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609500152979</updated>
-      <workItem from="1609500154524" duration="3759000" />
+      <workItem from="1609500154524" duration="4095000" />
     </task>
     <task id="LOCAL-00001" summary="Build version 1.1">
       <created>1609500210517</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609519987977</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Build version 1.4.2">
+      <created>1609520942641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609520942641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,13 +84,14 @@
     <MESSAGE value="Build version 1.2" />
     <MESSAGE value="Build version 1.3" />
     <MESSAGE value="Build version 1.4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build version 1.4.1" />
+    <MESSAGE value="Build version 1.4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build version 1.4.2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1609519984344">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1609520939554">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609519984344" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609520939554" />
     <state x="461" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1609506855741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
