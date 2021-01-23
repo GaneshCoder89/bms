@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3f7712-3edf-4588-9223-b5dd57284b54" name="Default Changelist" comment="Build version 1.4.11">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1c3f7712-3edf-4588-9223-b5dd57284b54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
       <workItem from="1609500154524" duration="7201000" />
       <workItem from="1609562782271" duration="627000" />
       <workItem from="1609695940959" duration="1755000" />
+      <workItem from="1611411227918" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="Build version 1.1">
       <created>1609500210517</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609696657445</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Build version 1.4.12">
+      <created>1611411275919</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611411275919</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,13 +150,14 @@
     <MESSAGE value="Build version 1.4.8" />
     <MESSAGE value="Build version 1.4.10" />
     <MESSAGE value="Build version 1.4.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build version 1.4.11" />
+    <MESSAGE value="Build version 1.4.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build version 1.4.12" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1609697839494">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1611411274352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609697839494" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1611411274352" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1609527437732">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
